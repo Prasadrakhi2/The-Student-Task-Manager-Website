@@ -49,11 +49,19 @@ http://localhost:3000
 
 ## 4. Output Screenshots
 
-The screenshot below proves that the application works correctly and shows a list of **3 added tasks**.
+The screenshots below prove that the application works correctly.
+
+### Task list with 2 tasks (maths, bio)
+
+![Task list](./screenshots/tasks-list.png)
+
+### Adding a new task ("dsa")
+
+![Add task](./screenshots/add-task.png)
+
+### Task list with 3 added tasks (maths, bio, dsa)
 
 ![Task list with 3 tasks](./screenshots/tasks-added.png)
-
-> **Note:** Create a folder named `screenshots` in the project root and save your screenshot as `tasks-added.png`.
 
 ---
 
